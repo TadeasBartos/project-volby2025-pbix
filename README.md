@@ -296,7 +296,7 @@ For the selected year, the report links overall election results, voter turnout,
 INPUT: city borough, year, political party.
 
 OUTPUT:
-- bar chart of 10 best parties, respecting user selection;
+- bar chart of ten best parties, respecting user selection;
 - bubble chart showing relation between borough size and voter turnout;
 - line chart representing voters count and voter turnout in selected borough; 
 - heatmap creating using matrice of party ranking across all five years splitted into boroughs. 
@@ -335,7 +335,7 @@ In the example below, we can see that the selected party's popularity declined i
 INPUT: political parties to compare. Year and city borough for detailed comparison.
 
 OUTPUT (for each party):
-- 3 card vizuals displaying ranking, number of votes and percentage; 
+- three card vizuals displaying ranking, number of votes and percentage; 
 - bar chart representing overall party popularity over all elected years;
 - map vizual displaying borough in unified color range (<10% red; 10% - 20% yellow; >30% green); 
 - detailed analysis on the bottom with card vizuals of vote count and ranking.
@@ -349,7 +349,7 @@ The fourth page allows for a comparison of two selected parties in terms of over
 INPUT: year.
 
 OUTPUT:
-- 3 card vizuals displaying the most populated city borough in last elections;
+- three card vizuals displaying the most populated city borough in last elections;
 - list of city boroughs to compare vote turnover, vote count and valid votes;
 - map highlighting vote turnover based on selected year across all boroughs;
 - bar chart comparing vote turnover over all five election years.
